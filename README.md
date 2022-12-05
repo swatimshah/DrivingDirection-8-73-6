@@ -10,3 +10,5 @@ Train: 0.894, Test: 0.736  <br/>
 [[284  38  43]   <br/>
  [ 55 104   6]   <br/>
  [ 39  10 144]]  <br/>
+
+ ![Screenshot](accuracy_73_6_2sec_epoch.png)
